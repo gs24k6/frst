@@ -1,0 +1,23 @@
+{
+  "name": "git_site",
+  "version": "1.0.0",
+  "description": "frst project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs24k6/frst.git"
+  },
+  "keywords": [
+    "frst",
+    "site"
+  ],
+  "author": "Gurgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gs24k6/frst/issues"
+  },
+  "homepage": "https://github.com/gs24k6/frst#readme"
+}
